@@ -6,5 +6,3 @@ eb local open
 
 #Logs on the server
 /var/log/containers/
-
-#Test commit
